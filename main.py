@@ -1,6 +1,6 @@
 # Copyright 2024 Kieran Harvie.
 # All rights reserved.
-# Use of this source code is governed by an MIT-style
+# Use of this source code is governed by an Apache-style
 # license that can be found in the LICENSE file.
 
 import matplotlib.pyplot as plt

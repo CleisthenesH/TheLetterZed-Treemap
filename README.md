@@ -1,7 +1,7 @@
 <!-- 
 Copyright 2024 Kieran Harvie.
 All rights reserved.
-Use of this source code is governed by an MIT-style license that can be found in the LICENSE file.
+Use of this source code is governed by an Apache-style license that can be found in the LICENSE file.
 -->
 
 This repo is a quick treemap visualization of the expected value from a tour completion in TF2.
